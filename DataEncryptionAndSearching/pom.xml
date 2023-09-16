@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.praka</groupId>
-	<artifactId>PrakashWithFrontEnd</artifactId>
+	<artifactId>DataEncryptionAndSearching</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PrakashWithFrontEnd</name>
+	<name>DataEncryptionAndSearching</name>
 	<description>Prakash project</description>
 	<properties>
 		<java.version>1.8</java.version>
